@@ -1,0 +1,51 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+*.venv
+*.env
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django
+*.sqlite3
+db.sqlite3
+/media/
+staticfiles/
+*.log
+
+# Environment Variables
+.env
+*.env.*
+
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Node.js (if using frontend tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Compiled files
+*.out
+*.so
+*.dll
+.DS_Store
+
+# Docker
+docker-compose.override.yml
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
