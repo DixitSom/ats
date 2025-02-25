@@ -1,5 +1,7 @@
 # Installation and Project Guide
 
+Install Python 3.10.9
+
 ## Create Virtual Environment
 ```
 python -m venv env
